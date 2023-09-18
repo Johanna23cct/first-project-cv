@@ -1,4 +1,4 @@
-# Portfolio-Proyects - Data Analysis Student CCT College 2023094
+# Projects - Data Analysis Student CCT College 2023094
 
 ## Project Overview
 This is my portfolio and CV project, showcasing my qualifications, education, and experience as a Data Analysis student at CCT College.
