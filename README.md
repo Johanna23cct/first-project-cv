@@ -13,7 +13,7 @@ I created this project to demonstrate my skills and qualifications to potential 
 - References
 
 ## Usage
-To view my CV, simply open the 'cv.png' file in the repository.
+To view my CV, simply open the 'cv_combined.png' file in the repository.
 
 ## Dependencies
 To regenerate the CV image, you need Python and the Matplotlib library.
