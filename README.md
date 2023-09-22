@@ -34,3 +34,4 @@ I'd like to thank all CCT college Staff for their guidance and support during th
 ## Additional Information
 Feel 
 free to explore the CV and get in touch if you have any questions or opportunities for collaboration.
+and remember To view my CV, simply open the 'cv_combined.png' file in the repository.
